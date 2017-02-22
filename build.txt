@@ -2,8 +2,10 @@
 version = 0.1
 displayName = ModItem Tooltips
 hideCode = false
-hideResources = true
+hideResources = false
 includeSource = true
-buildIgnore = *.csproj, *.user, *.csproj.user, obj\*, bin\*, .vs\*, *.sln, LICENSE, .gitattributes, .gitignore, Properties\*, .git\*
+buildIgnore = *.csproj, *.user, *.csproj.user, obj\*, bin\*, .vs\*, *.sln, LICENSE, .gitattributes, .gitignore, Properties\*, .git\*, .travis.yml
 includePDB = true
 languageVersion = 6
+side = Client
+notworkingside = Server
