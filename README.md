@@ -1,5 +1,5 @@
 # Intro
-![](https://travis-ci.org/Jofairden/BouncyCoins.svg "")
+![](https://travis-ci.org/Jofairden/ModItemTooltips.svg "")
 
 <p align="center">
 <img src="http://javid.ddns.net/tModLoader/widget/widgetimage/ModItemTooltips.png"/>
