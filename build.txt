@@ -1,10 +1,10 @@
 ﻿author = Jofairden
-version = 0.1
+version = 0.2
 displayName = ModItem Tooltips
 hideCode = false
 hideResources = false
 includeSource = true
-buildIgnore = *.csproj, *.user, *.csproj.user, obj\*, bin\*, .vs\*, *.sln, LICENSE, .gitattributes, .gitignore, Properties\*, .git\*, .travis.yml
+buildIgnore = *.csproj, *.user, *.csproj.user, obj\*, bin\*, .vs\*, *.sln, LICENSE, .gitattributes, .gitignore, Properties\*, .git\*, .travis.yml, dist\*
 includePDB = true
 languageVersion = 6
 side = Client

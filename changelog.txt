@@ -1,0 +1,7 @@
+﻿Changelog for v0.1 to v0.2
+
+	Bugfixes
+		Fixed [Mod] duplication in item title
+
+	Other
+		Added 'Crafted by: Player' tooltip
