@@ -16,11 +16,5 @@ eg: Example Sword [Example Mod]
 <p align="center">
 <img src="http://i.imgur.com/kdcROYP.png"/>
 </p>
-# Examples
-![](https://github.com/Jofairden/ModItemTooltips/blob/master/inventoryExample.png?raw=true)
-
-<p align="center">
-<img src="http://i.imgur.com/kdcROYP.png"/>
-</p>
 # Links
-[Thread](https://forums.terraria.org/index.php?threads/moditem-tooltips.55084/)
+[Thread](http://forums.terraria.org/index.php?threads/moditem-tooltips.55084/)
