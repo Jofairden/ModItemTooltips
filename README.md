@@ -16,6 +16,7 @@ eg: Example Sword [Example Mod]
 <p align="center">
 <img src="http://i.imgur.com/kdcROYP.png"/>
 </p>
+
 # Links
 
 [Thread](http://forums.terraria.org/index.php?threads/moditem-tooltips.55084/)
